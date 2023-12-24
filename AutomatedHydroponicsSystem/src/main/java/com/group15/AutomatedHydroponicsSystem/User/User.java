@@ -4,5 +4,7 @@ public class User {
     private Integer id;
     private String firstname;
     private String lastname;
-    jda
+    private String email;
+    private String password;
+    private String no;
 }
